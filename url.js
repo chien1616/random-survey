@@ -1,12 +1,3 @@
-/*
- * 將要隨機派發的網址放入下方（不需排序）
- *
- * 並請注意：
- * 1. 網址請用引號（或稱「撇號」，單引號或雙引號皆可）包起來
- * 2. 包起來的網址之間用逗號分隔
- */
-
-
 const urls = [
 	'https://docs.google.com/forms/d/e/1FAIpQLSe3AYn2AqlQ_4d8zl_KsYzTrFaciF6nnBSx034QpROkgHpdYg/viewform?usp=header',
 	'https://docs.google.com/forms/d/e/1FAIpQLScrYmN_ebG5LNhizqz19759IMXYTqKQ3Fg22PRjyKlHN2uncg/viewform?usp=header',
